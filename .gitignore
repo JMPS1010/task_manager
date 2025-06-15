@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PyInstaller artifacts (if ever used)
+build/
+dist/
+*.spec
+
+#remove tasks.csv from version control
+tasks.csv
