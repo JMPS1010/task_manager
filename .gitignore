@@ -21,5 +21,5 @@ build/
 dist/
 *.spec
 
-#remove tasks.csv from version control
-tasks.csv
+#database file
+tasks.db
